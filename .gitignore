@@ -1,0 +1,5 @@
+#ignore from env
+.vscode/
+.env
+node_modules/
+
