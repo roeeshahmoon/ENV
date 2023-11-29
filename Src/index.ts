@@ -3,4 +3,4 @@ console.log(process.env.ENVRIONMENT_NAME);
 if (process.env.ENVRIONMENT_NAME) {
     console.log("True");
 }
-else {console.log("hello world")};
+else {console.log("False")};
